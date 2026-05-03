@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\AI_Learning_Plan\\001_C\u002B\u002B\\1_coursework\\cpp2_warmup_loop_control_flow\\cpp2_warmup_loop_control_flow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14A5AF34-4972-42CD-93EB-F9A510787801}|cpp2_warmup_loop_control_flow.vcxproj|C:\\Dev\\AI_Learning_Plan\\001_C\u002B\u002B\\1_coursework\\cpp2_warmup_loop_control_flow\\cpp2_warmup_loop_control_flow\\cpp2_warmup_loop_control_flow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14A5AF34-4972-42CD-93EB-F9A510787801}|cpp2_warmup_loop_control_flow.vcxproj|solutionrelative:cpp2_warmup_loop_control_flow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cpp2_warmup_loop_control_flow.cpp",
+              "DocumentMoniker": "C:\\Dev\\AI_Learning_Plan\\001_C\u002B\u002B\\1_coursework\\cpp2_warmup_loop_control_flow\\cpp2_warmup_loop_control_flow\\cpp2_warmup_loop_control_flow.cpp",
+              "RelativeDocumentMoniker": "cpp2_warmup_loop_control_flow.cpp",
+              "ToolTip": "C:\\Dev\\AI_Learning_Plan\\001_C\u002B\u002B\\1_coursework\\cpp2_warmup_loop_control_flow\\cpp2_warmup_loop_control_flow\\cpp2_warmup_loop_control_flow.cpp*",
+              "RelativeToolTip": "cpp2_warmup_loop_control_flow.cpp*",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAFEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-03T07:25:40.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
